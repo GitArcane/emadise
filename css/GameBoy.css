@@ -449,3 +449,13 @@ ul.menu > li:hover > ul.menu {
 	display: block;
 	display: inline-block;
 }
+a {
+    position: absolute;
+    display: block;
+    left: 250px;
+    top: 179px;
+    color: white;
+}
+div.gamefiles {
+word-wrap: break-word;
+}
